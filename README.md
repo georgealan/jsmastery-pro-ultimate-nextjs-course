@@ -7,7 +7,7 @@
 ![](https://raw.githubusercontent.com/georgealan/jsmastery-pro-ultimate-nextjs-course/main/assets/jsmastery-pro-cover.jpg)
 
 <h3 align="center">
-    🏆 A course to help you learn how to wrangle your stylesheets, keeping them organized and scalable no matter the size of the project or how big your team is.
+    🏆 A course about NextJS.
 </h3>
 
 <p align="center">
